@@ -1,0 +1,55 @@
+h1{
+   
+    color: rgba(163, 112, 235, 0.695);
+}
+body{
+    background-color: rgb(207, 216, 255);
+}
+div{
+    
+background-color: rgba(153, 207, 182, 0.895);
+}
+.container{
+input[type=textarea],select,textarea{
+    width: 500px;
+    border: solid 1px;
+    margin: 1px;
+    padding: 11px;
+    margin-inline: 500px;
+    color: rgb(128, 150, 243);
+}
+input[type=text], select, text {
+    padding:  12px;
+    color: rgb(128, 150, 243);
+    border: solid 1px;
+
+    margin: 10px;
+    width: 200px;
+    margin-inline: 590px;
+    
+}
+input[type=number]{
+    border:solid 1px;
+    padding: 12px;
+    color: rgb(128, 150, 243);
+    margin: 1px;
+    width: 200px;
+    margin-inline: 590px;
+}
+input[type=email],select{
+    width: 250px;
+    color: rgb(128,150,243);
+    border: solid 1px;
+    margin: 1px;
+    padding: 11px;
+    margin-inline: 580px;
+}
+input[type=date]{
+    color: rgb(128, 150, 243);
+    width: 200px;
+    border: solid 1px;
+    margin: 1px;
+    padding: 5px;
+    margin-inline: 600px;
+}
+}
